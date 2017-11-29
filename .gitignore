@@ -1,0 +1,10 @@
+Caves/save/*
+Caves/backup/*
+Caves/*.txt
+Master/save/*
+Master/backup/*
+Master/*.txt
+Boss/save/*
+Boss/backup/*
+Boss/*.txt
+*.txt

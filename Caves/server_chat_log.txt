@@ -1,0 +1,558 @@
+[00:01:34]: [Join Announcement] 946949377
+[00:02:40]: [Announcement] 946949377   成功进入游戏   获得成就【新的开始】
+[00:04:20]: [Join Announcement] 肖杓大魔王
+[00:05:03]: [Announcement] 肖杓大魔王   成功进入游戏   获得成就【新的开始】
+[00:10:25]: [Join Announcement] 智障儿童欢乐多
+[00:10:44]: [Join Announcement] 孤空傲鹰
+[00:11:31]: [Announcement] 孤空傲鹰   成功进入游戏   获得成就【新的开始】
+[00:11:33]: [Announcement] 智障儿童欢乐多   成功进入游戏   获得成就【新的开始】
+[00:12:38]: [Announcement] 946949377   吃下第一个食物   获得成就【第一口】
+[00:17:08]: [Announcement] 肖杓大魔王   吃下第一个食物   获得成就【第一口】
+[00:19:47]: [Announcement] 智障儿童欢乐多   吃下第一个食物   获得成就【第一口】
+[00:20:31]: [Say] (KU_HqKLtXPp) 肖杓大魔王: 我qq更新了一下
+[00:22:53]: [Announcement] 孤空傲鹰   吃下第一个食物   获得成就【第一口】
+[00:29:20]: [Say] (KU_H7WELTUN) 孤空傲鹰: 海象村
+[00:29:39]: [Say] (KU_H7WELTUN) 孤空傲鹰: 这咋打
+[00:31:21]: [Join Announcement] 爱德华
+[00:31:59]: [Announcement] 爱德华   成功进入游戏   获得成就【新的开始】
+[00:33:30]: [Announcement] 爱德华   吃下第一个食物   获得成就【第一口】
+[00:37:32]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: 两个隧石有吗
+[00:38:48]: [Leave Announcement] 孤空傲鹰
+[00:53:43]: [Join Announcement] G.Y
+[00:54:26]: [Announcement] G.Y   成功进入游戏   获得成就【新的开始】
+[00:59:51]: [Say] (KU_SIyU8BtY) 爱德华: 给加放个木牌
+[00:59:55]: [Say] (KU_SIyU8BtY) 爱德华: 家
+[01:02:20]: [Say] (KU_AQbLOa00) G.Y:  我拥有8个肉。
+[01:06:51]: [Announcement] G.Y   吃下第一个食物   获得成就【第一口】
+[01:07:01]: [Say] (KU_AQbLOa00) G.Y:  我拥有1个end table blueprint。
+[01:08:02]: [Say] (KU_AQbLOa00) G.Y:  我拥有21个青蛙腿。
+[01:10:07]: [Leave Announcement] G.Y
+[01:11:54]: [Join Announcement] G.Y
+[01:12:33]: [Leave Announcement] G.Y
+[01:14:48]: [Join Announcement] G.Y
+[01:26:14]: [Join Announcement] 逸翔天开
+[01:26:22]: [Leave Announcement] G.Y
+[01:27:20]: [Say] (KU_gwdm4uXz) 逸翔天开: 需要什么人物？
+[01:27:29]: [Announcement] 946949377   吃了100个食物   获得成就【美食家】
+[01:27:43]: [Say] (KU_gwdm4uXz) 逸翔天开: 我选个谁好一点
+[01:27:52]: [Join Announcement] G.Y
+[01:27:59]: [Say] (KU_DGg1jBRK) 946949377: L老奶奶
+[01:28:07]: [Announcement] 逸翔天开   成功进入游戏   获得成就【新的开始】
+[01:28:34]: [Leave Announcement] 逸翔天开
+[01:29:29]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有1个铥矿棒,有100%耐久性。
+[01:29:31]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有1个铥矿石皇冠,有100%耐久性。
+[01:29:46]: [Say] (KU_AQbLOa00) G.Y: 抽奖抽到的？
+[01:29:59]: [Say] (KU_SIyU8BtY) 爱德华: 沉迷抽奖无法自拔
+[01:31:48]: [Join Announcement] 翩翩红叶叹似心如故
+[01:32:23]: [Announcement] 翩翩红叶叹似心如故   成功进入游戏   获得成就【新的开始】
+[01:32:28]: [Join Announcement] 逸翔天开
+[01:33:15]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[01:34:13]: [Announcement] 翩翩红叶叹似心如故   吃下第一个食物   获得成就【第一口】
+[01:34:33]: [Say] (KU_AQbLOa00) G.Y: 这边刷青蛙肉完全无敌
+[01:34:42]: [Say] (KU_AQbLOa00) G.Y:  我拥有36个青蛙腿。
+[01:34:51]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 绿菇头。
+[01:34:58]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[01:35:06]: [Announcement] 逸翔天开   吃下第一个食物   获得成就【第一口】
+[01:35:16]: [Join Announcement] yyyyekia
+[01:35:34]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 116/120) 我认为我现在有充足的精神烧火。
+[01:35:43]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 146/150) 我有一两处擦伤。我或许应该点燃它们。
+[01:36:56]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 150/150) 完美的我就应该没有一块伤痕！
+[01:37:55]: [Say] (KU_AQbLOa00) G.Y:  我拥有23个浆果灌木丛。
+[01:38:05]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有9个萤火虫。
+[01:38:12]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 伯尼 拥有 100% 的耐久度。
+[01:38:36]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要 1 种子 来制造 应用园艺学。
+[01:39:30]: [Death Announcement] 肖杓大魔王 was killed by Tentacle. She became a spooky ghost!
+[01:39:40]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[01:39:41]: [Resurrect Announcement] 肖杓大魔王 was resurrected by resurrect.
+[01:39:47]: [Announcement] yyyyekia   成功进入游戏   获得成就【新的开始】
+[01:41:03]: [Skin Announcement] 翩翩红叶叹似心如故 body_tweedvest_grey_steel
+[01:41:53]: [Death Announcement] 肖杓大魔王 was killed by Tentacle. She became a spooky ghost!
+[01:42:13]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[01:42:31]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 烤绿蘑菇。
+[01:42:33]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[01:42:33]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 119/120) 我认为我现在有充足的精神烧火。
+[01:42:43]: [Say] (KU_AQbLOa00) G.Y:  (饥饿: 13/120) 没有一些肉我就饿死了！
+[01:42:47]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (饥饿值: 122/150) 如果我不停止吃会发胖的。
+[01:42:50]: [Say] (KU_AQbLOa00) G.Y:  我拥有4个肉。
+[01:43:19]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[01:46:13]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 95/120) 我认为我现在有充足的精神烧火。
+[01:46:35]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有8个萤火虫。
+[01:47:02]: [Say] (KU_SIyU8BtY) 爱德华:  我没有足够材料制作〖 草帽 〗。
+[01:47:18]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[01:47:19]: [Resurrect Announcement] 肖杓大魔王 was resurrected by resurrect.
+[01:47:40]: [Say] (KU_SIyU8BtY) 爱德华:  我没有足够材料制作〖 草帽 〗。
+[01:48:37]: [Announcement] 肖杓大魔王   吃了100个食物   获得成就【美食家】
+[01:50:18]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 4 个烤蜜汁浆果。
+[01:50:44]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[01:51:21]: [Announcement] yyyyekia   吃下第一个食物   获得成就【第一口】
+[01:53:17]: [Announcement] G.Y   身上着火   获得成就【火的传承人】
+[01:53:33]: [Death Announcement] 946949377 was killed by Lavae. He became a spooky ghost!
+[01:53:37]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 108/120) 我认为我现在有充足的精神烧火。
+[01:53:44]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (饥饿值: 104/150) 愉快又饱满的。
+[01:53:54]: [Say] (KU_DGg1jBRK) 946949377: #resurrect
+[01:53:55]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[01:55:02]: [Announcement] 946949377   身上着火   获得成就【火的传承人】
+[01:56:08]: [Death Announcement] 946949377 was killed by Fire. He became a spooky ghost!
+[01:56:17]: [Say] (KU_DGg1jBRK) 946949377: #resurrect
+[01:56:18]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[01:57:34]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 蜜蜂。
+[01:59:53]: [Join Announcement] Arven
+[02:01:23]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 119/120) 我认为我现在有充足的精神烧火。
+[02:01:26]: [Say] (KU_AQbLOa00) G.Y:  我拥有3个鳞片。
+[02:01:33]: [Say] (KU_AQbLOa00) G.Y:  我拥有1个dragonfly figure sketch。
+[02:02:03]: [Leave Announcement] Arven
+[02:03:08]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有17个牛毛。
+[02:03:27]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: ?
+[02:03:30]: [Death Announcement] 翩翩红叶叹似心如故 was killed by G.Y. She became a spooky ghost!
+[02:03:48]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: 我要打切斯特，打到你了
+[02:04:12]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: 有个成就
+[02:04:19]: [Join Announcement] 星野桃丷
+[02:04:41]: [Say] (KU_DGg1jBRK) 946949377: #resurrect
+[02:04:42]: [Say] (KU_AQbLOa00) G.Y: #resurrect
+[02:04:54]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: #resurrect
+[02:04:55]: [Resurrect Announcement] 翩翩红叶叹似心如故 was resurrected by resurrect.
+[02:04:55]: [Announcement] 星野桃丷   成功进入游戏   获得成就【新的开始】
+[02:05:15]: [Join Announcement] Adlos
+[02:05:31]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: 为什么打不到
+[02:05:33]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: ..
+[02:05:48]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: ?
+[02:05:51]: [Say] (KU_DGg1jBRK) 946949377: ...y
+[02:05:54]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: 服了
+[02:06:29]: [Announcement] G.Y   打死切斯特   获得成就【冷血动物】
+[02:06:43]: [Say] (KU_DGg1jBRK) 946949377: 妈的制仗
+[02:06:48]: [Announcement] Adlos   成功进入游戏   获得成就【新的开始】
+[02:07:07]: [Say] (KU_gwdm4uXz) 逸翔天开:  (生命值: 17/150) 我需要立刻马上就医！
+[02:07:15]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有5个金币。
+[02:07:23]: [Say] (KU_AQbLOa00) G.Y:  我拥有3个鳞片。
+[02:07:28]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有31个牛毛。
+[02:07:36]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有7个金币。
+[02:07:43]: [Leave Announcement] Adlos
+[02:07:50]: [Say] (KU_AQbLOa00) G.Y:  我需要 10 个或更多的〖 木炭 〗来制造【 龙鳞熔炉 】。
+[02:07:54]: [Say] (KU_SIyU8BtY) 爱德华: 金币谁没时间用 给我
+[02:08:38]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 61/120) 我感觉寒冷无比，我很可能……
+[02:08:57]: [Say] (KU_AQbLOa00) G.Y: wo xue le
+[02:09:21]: [Say] (KU_AQbLOa00) G.Y: long ling
+[02:10:17]: [Death Announcement] 星野桃丷 was killed by Darkness. She became a spooky ghost!
+[02:10:17]: [Announcement] 星野桃丷   死于黑暗   获得成就【萌新】
+[02:10:19]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 88/120) 我刚才看到伯尼在行走了么？……没有，不用介意。
+[02:10:35]: [Say] (KU_HqKLtXPp) 肖杓大魔王: 桃子？我来找你吧
+[02:10:46]: [Leave Announcement] 爱德华
+[02:11:05]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: 我刚才打的
+[02:11:13]: [Say] (KU_AQbLOa00) G.Y:  我拥有3个噩梦燃料。
+[02:11:22]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: 打不到切斯特 ，不小心打到你的小弟了
+[02:12:49]: [Say] (KU_AQbLOa00) G.Y:  我需要 6 个或更多的〖 便便 〗来制造【 高级农场 】。
+[02:12:53]: [Leave Announcement] 星野桃丷
+[02:12:58]: [Join Announcement] 爱德华
+[02:13:16]: [Say] (KU_AQbLOa00) G.Y:  (饥饿: 0/120) 没有一些肉我就饿死了！
+[02:14:31]: [Say] (KU_AQbLOa00) G.Y: 农场建在哪儿？
+[02:14:31]: [Join Announcement] 星野桃丷
+[02:17:14]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要 4 个蜘蛛网 来制造 捕鸟器。
+[02:18:00]: [Death Announcement] 翩翩红叶叹似心如故 was killed by Darkness. She became a spooky ghost!
+[02:18:00]: [Announcement] 翩翩红叶叹似心如故   死于黑暗   获得成就【萌新】
+[02:18:04]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: #restuurt
+[02:18:24]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: #resuurt
+[02:19:12]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: #resurrect
+[02:19:13]: [Resurrect Announcement] 翩翩红叶叹似心如故 was resurrected by resurrect.
+[02:21:03]: [Leave Announcement] 星野桃丷
+[02:21:08]: [Leave Announcement] 946949377
+[02:21:26]: [Join Announcement] 饥荒新萌
+[02:22:07]: [Join Announcement] 星野桃丷
+[02:22:08]: [Announcement] 饥荒新萌   成功进入游戏   获得成就【新的开始】
+[02:22:44]: [Skin Announcement] 饥荒新萌 body_sweatervest_green_forest
+[02:22:45]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要制造 木栅栏。
+[02:22:59]: [Say] (KU_3RvV9gKf) 饥荒新萌: - -又换家了
+[02:23:24]: [Announcement] 爱德华   打死切斯特   获得成就【冷血动物】
+[02:25:34]: [Resurrect Announcement] 星野桃丷 was resurrected by Touch Stone.
+[02:26:04]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 伯尼 拥有 100% 的耐久度。
+[02:26:09]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (饥饿值: 144/150) 如果我不停止吃会发胖的。
+[02:26:34]: [Death Announcement] 星野桃丷 was killed by Guard Pig. She became a spooky ghost!
+[02:27:27]: [Leave Announcement] 星野桃丷
+[02:29:36]: [Leave Announcement] 饥荒新萌
+[02:30:11]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[02:31:06]: [Join Announcement] 946949377
+[02:31:55]: [Leave Announcement] 946949377
+[02:32:19]: [Say] (KU_SIyU8BtY) 爱德华: 海象在哪
+[02:32:38]: [Leave Announcement] 肖杓大魔王
+[02:33:00]: [Say] (KU_SIyU8BtY) 爱德华: 没有海象平原吗
+[02:33:35]: [Announcement] 爱德华   空脑残状态达600秒   获得成就【人工智障】
+[02:34:50]: [Join Announcement] 946949377
+[02:37:24]: [Join Announcement] 饥荒新萌
+[02:38:14]: [Leave Announcement] 饥荒新萌
+[02:38:48]: [Announcement] 翩翩红叶叹似心如故   打死切斯特   获得成就【冷血动物】
+[02:41:03]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 119/120) 我认为我现在有充足的精神烧火。
+[02:41:47]: [Say] (KU_SIyU8BtY) 爱德华: 我刮了
+[02:42:07]: [Say] (KU_AQbLOa00) G.Y: 要杀牛吗？
+[02:42:09]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有31个牛毛。
+[02:42:26]: [Say] (KU_AQbLOa00) G.Y: 我去杀
+[02:43:46]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要制造 热能石。
+[02:43:49]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要 5 个岩石 来制造 热能石。
+[02:44:06]: [Say] (KU_SIyU8BtY) 爱德华: 地图不可能连单个海象都没有吧
+[02:44:24]: [Say] (KU_SIyU8BtY) 爱德华: 谁能打海象镇？
+[02:44:49]: [Say] (KU_AQbLOa00) G.Y: 海象镇完全大不了
+[02:45:33]: [Say] (KU_SIyU8BtY) 爱德华: 海象镇得秋天吧海象围住  冬天打
+[02:45:41]: [Say] (KU_AQbLOa00) G.Y: 我去打牛了
+[02:48:05]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[02:48:19]: [Announcement] 智障儿童欢乐多   停止不动并活着90分钟   获得成就【咸鱼】
+[02:48:46]: [Say] (KU_AQbLOa00) G.Y:  我拥有2个牛角,有100%耐久性。
+[02:49:24]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 火炬 拥有 80% 的耐久度。
+[02:49:38]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[02:52:22]: [Say] (KU_AQbLOa00) G.Y:  我拥有36个牛毛。
+[02:53:04]: [Announcement] 逸翔天开   被冻住   获得成就【冻住不洗澡】
+[02:53:04]: [Announcement] 爱德华   被冻住   获得成就【冻住不洗澡】
+[02:53:25]: [Death Announcement] 逸翔天开 was killed by MacTusk. She became a spooky ghost!
+[02:54:49]: [Say] (KU_SIyU8BtY) 爱德华: 美
+[02:54:54]: [Say] (KU_SIyU8BtY) 爱德华:  我需要 1 个或更多的〖 蜘蛛腺体 〗来制造【 救赎之心 】。
+[02:55:30]: [Say] (KU_AQbLOa00) G.Y: alt shift zuojian
+[02:56:29]: [Announcement] 946949377   停止不动并活着90分钟   获得成就【咸鱼】
+[02:56:46]: [Announcement] G.Y   被冻住   获得成就【冻住不洗澡】
+[02:57:06]: [Say] (KU_AQbLOa00) G.Y:  我拥有22个燧石。
+[02:59:22]: [Resurrect Announcement] 逸翔天开 was resurrected by 爱德华.
+[02:59:58]: [Leave Announcement] 翩翩红叶叹似心如故
+[03:01:19]: [Say] (KU_AQbLOa00) G.Y: wo sha le liangge
+[03:01:39]: [Say] (KU_AQbLOa00) G.Y: 你们过来捡东西吧
+[03:01:48]: [Say] (KU_AQbLOa00) G.Y: 我没带背包
+[03:01:58]: [Say] (KU_gwdm4uXz) 逸翔天开:  (生命值: 19/150) 我需要立刻马上就医！
+[03:03:18]: [Announcement] yyyyekia   打死切斯特   获得成就【冷血动物】
+[03:04:02]: [Skin Announcement] yyyyekia body_polo_white_marble
+[03:04:25]: [Say] (KU_gwdm4uXz) 逸翔天开:  (饥饿值: 52/150) 这个图书管理员需要食物，我是担心害怕的！
+[03:04:45]: [Join Announcement] 翩翩红叶叹似心如故
+[03:06:27]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要 2 个金块 和 1 个 <炼金术引擎> 来制造 步行手杖。
+[03:07:37]: [Announcement] 爱德华   停止不动并活着90分钟   获得成就【咸鱼】
+[03:09:35]: [Join Announcement] Ayanss
+[03:09:40]: [Announcement] 946949377   被冻住   获得成就【冻住不洗澡】
+[03:09:48]: [Announcement] Ayanss   成功进入游戏   获得成就【新的开始】
+[03:10:55]: [Leave Announcement] Ayanss
+[03:12:53]: [Death Announcement] yyyyekia was killed by Pengull. She became a spooky ghost!
+[03:15:02]: [Death Announcement] G.Y was killed by MacTusk. She became a spooky ghost!
+[03:15:19]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrt
+[03:15:50]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: RESURRECT
+[03:15:55]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[03:15:56]: [Resurrect Announcement] yyyyekia was resurrected by resurrect.
+[03:16:07]: [Say] (KU_AQbLOa00) G.Y: #resurrect
+[03:16:08]: [Resurrect Announcement] G.Y was resurrected by resurrect.
+[03:16:18]: [Death Announcement] 946949377 was killed by Merm. He became a spooky ghost!
+[03:16:31]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[03:16:32]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[03:20:36]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要 2 个割下的草 来制造 火炬。
+[03:21:58]: [Death Announcement] G.Y was killed by Terrorbeak. She became a spooky ghost!
+[03:22:26]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要 3 个割下的草 来制造 救赎之心。
+[03:22:29]: [Say] (KU_gwdm4uXz) 逸翔天开:  我需要 1 蜘蛛腺体 来制造 救赎之心。
+[03:22:39]: [Say] (KU_AQbLOa00) G.Y: 我有
+[03:22:50]: [Say] (KU_AQbLOa00) G.Y: 直接在地上捡起来就好啦
+[03:23:00]: [Resurrect Announcement] G.Y was resurrected by 逸翔天开.
+[03:24:46]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: dance
+[03:24:55]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故: #dance
+[03:24:55]: [Leave Announcement] yyyyekia
+[03:25:35]: [Join Announcement] yyyyekia
+[03:26:21]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有2个海象牙。
+[03:29:38]: [Say] (KU_gwdm4uXz) 逸翔天开:  我拥有 1 个 矿工帽 拥有  0% 的耐久度。
+[03:29:47]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多:  我拥有1个矿工帽,有 0%耐久性。
+[03:30:04]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 35/150) 我的生命之火几乎要熄灭。。。
+[03:31:36]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 15/150) 我的生命之火几乎要熄灭。。。
+[03:32:50]: [Say] (KU_SIyU8BtY) 爱德华:  (饥饿: 36/120) 我渴望一场盛宴！
+[03:33:02]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 15/150) 我的生命之火几乎要熄灭。。。
+[03:33:04]: [Say] (KU_AQbLOa00) G.Y: 该做灭火器了
+[03:33:05]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 116/120) 我认为我现在有充足的精神烧火。
+[03:33:32]: [Say] (KU_AQbLOa00) G.Y: 我去打齿轮
+[03:34:01]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有3个步行手杖。
+[03:35:22]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有3个步行手杖。
+[03:35:31]: [Say] (KU_AQbLOa00) G.Y: 我在boss世界里
+[03:40:03]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有4个齿轮。
+[03:40:24]: [Leave Announcement] 946949377
+[03:42:19]: [Announcement] 翩翩红叶叹似心如故   吃了100个食物   获得成就【美食家】
+[03:44:18]: [Say] (KU_AQbLOa00) G.Y:  我拥有8个齿轮。
+[03:44:23]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 热能石 拥有 100% 的耐久度。
+[03:44:23]: [Join Announcement] 946949377
+[03:44:27]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 伯尼 拥有 100% 的耐久度。
+[03:46:02]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[03:47:02]: [Leave Announcement] G.Y
+[03:48:51]: [Join Announcement] G.Y
+[03:50:23]: [Announcement] G.Y   停止不动并活着90分钟   获得成就【咸鱼】
+[03:51:51]: [Say] (KU_gwdm4uXz) 逸翔天开:  (饥饿值: 26/150) 这个图书管理员需要食物，我是担心害怕的！
+[03:53:24]: [Announcement] 逸翔天开   停止不动并活着90分钟   获得成就【咸鱼】
+[03:53:57]: [Say] (KU_AQbLOa00) G.Y:  我拥有14个齿轮。
+[03:55:16]: [Death Announcement] 逸翔天开 was killed by Freezing. She became a spooky ghost!
+[03:55:36]: [Whisper] (KU_AQbLOa00) G.Y: 齿轮够了没？
+[03:57:04]: [Say] (KU_AQbLOa00) G.Y: 我发财了
+[03:57:10]: [Say] (KU_AQbLOa00) G.Y:  我拥有25个齿轮。
+[03:57:46]: [Say] (KU_AQbLOa00) G.Y:  (生命: 55/200) 没有援助,我很快就会在瓦尔哈拉殿堂……
+[03:57:53]: [Say] (KU_SIyU8BtY) 爱德华:  (精神: 0/120) 退后,黑暗怪兽！
+[04:00:28]: [Resurrect Announcement] 逸翔天开 was resurrected by G.Y.
+[04:01:09]: [Leave Announcement] G.Y
+[04:01:23]: [Skin Announcement] yyyyekia hand_longgloves_green_hunters
+[04:03:21]: [Join Announcement] G.Y
+[04:03:43]: [Announcement] 爱德华   吃了100个食物   获得成就【美食家】
+[04:04:37]: [Death Announcement] 智障儿童欢乐多 was killed by Deerclops. He became a spooky ghost!
+[04:04:44]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:04:45]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[04:06:35]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有2个铥矿棒,有100%耐久性。
+[04:08:11]: [Say] (KU_SIyU8BtY) 爱德华: manyue
+[04:08:41]: [Say] (KU_AQbLOa00) G.Y:  我拥有25个齿轮。
+[04:08:56]: [Say] (KU_AQbLOa00) G.Y:  我需要 2 个或更多的〖 电器元件 〗来制造【 雪球发射机 】。
+[04:08:58]: [Say] (KU_AQbLOa00) G.Y:  我需要 15 个或更多的〖 冰 〗来制造【 雪球发射机 】。
+[04:09:17]: [Say] (KU_AQbLOa00) G.Y: 挖冰去啊
+[04:11:57]: [Say] (KU_SIyU8BtY) 爱德华:  我拥有1个missing name。
+[04:12:07]: [Announcement] yyyyekia   停止不动并活着90分钟   获得成就【咸鱼】
+[04:12:45]: [Say] (KU_AQbLOa00) G.Y: 还有哪儿要
+[04:13:16]: [Announcement] 翩翩红叶叹似心如故   停止不动并活着90分钟   获得成就【咸鱼】
+[04:13:34]: [Announcement] 爱德华   打死格罗姆   获得成就【丧心病狂】
+[04:18:36]: [Death Announcement] G.Y was killed by Darkness. She became a spooky ghost!
+[04:18:36]: [Announcement] G.Y   死于黑暗   获得成就【萌新】
+[04:18:48]: [Say] (KU_AQbLOa00) G.Y: #resurrect
+[04:18:49]: [Resurrect Announcement] G.Y was resurrected by resurrect.
+[04:19:47]: [Say] (KU_SIyU8BtY) 爱德华: 打不打克劳斯
+[04:20:05]: [Announcement] 智障儿童欢乐多   吃了100个食物   获得成就【美食家】
+[04:22:51]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  我拥有 1 个 热能石 拥有 88% 的耐久度。
+[04:26:18]: [Leave Announcement] 翩翩红叶叹似心如故
+[04:32:06]: [Announcement] 逸翔天开   身上着火   获得成就【火的传承人】
+[04:32:20]: [Announcement] G.Y   受到伤害超过3000   获得成就【人形坦克】
+[04:32:42]: [Death Announcement] 智障儿童欢乐多 was killed by Krampus. He became a spooky ghost!
+[04:32:46]: [Death Announcement] 逸翔天开 was killed by Krampus. She became a spooky ghost!
+[04:32:57]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECTR
+[04:33:02]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:33:03]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[04:33:03]: [Announcement] yyyyekia   身上着火   获得成就【火的传承人】
+[04:33:11]: [Death Announcement] 智障儿童欢乐多 was killed by Klaus. He became a spooky ghost!
+[04:33:23]: [Resurrect Announcement] 逸翔天开 was resurrected by resurrect.
+[04:35:01]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:35:10]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:35:16]: [Death Announcement] 逸翔天开 was killed by Freezing. She became a spooky ghost!
+[04:35:29]: [Announcement] yyyyekia   被冻住   获得成就【冻住不洗澡】
+[04:35:35]: [Death Announcement] 946949377 was killed by Klaus. He became a spooky ghost!
+[04:35:46]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[04:35:47]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:35:48]: [Death Announcement] yyyyekia was killed by Klaus. She became a spooky ghost!
+[04:36:04]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:36:10]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[04:36:11]: [Resurrect Announcement] yyyyekia was resurrected by resurrect.
+[04:36:27]: [Death Announcement] 946949377 was killed by Klaus. He became a spooky ghost!
+[04:36:37]: [Death Announcement] 爱德华 was killed by Klaus. She became a spooky ghost!
+[04:36:38]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[04:36:39]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:36:54]: [Say] (KU_SIyU8BtY) 爱德华: 打之前  说一下
+[04:37:01]: [Death Announcement] yyyyekia was killed by Klaus. She became a spooky ghost!
+[04:37:27]: [Death Announcement] G.Y was killed by Klaus. She became a spooky ghost!
+[04:37:29]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[04:37:30]: [Death Announcement] 946949377 was killed by Klaus. He became a spooky ghost!
+[04:37:40]: [Say] (KU_AQbLOa00) G.Y: #resurrect
+[04:37:41]: [Resurrect Announcement] G.Y was resurrected by resurrect.
+[04:37:42]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[04:37:43]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:38:02]: [Death Announcement] 946949377 was killed by Klaus. He became a spooky ghost!
+[04:38:12]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[04:38:13]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:38:17]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[04:38:21]: [Death Announcement] G.Y was killed by Klaus. She became a spooky ghost!
+[04:38:29]: [Say] (KU_AQbLOa00) G.Y: #resurrect
+[04:38:30]: [Resurrect Announcement] G.Y was resurrected by resurrect.
+[04:38:37]: [Say] (KU_SIyU8BtY) 爱德华: #复活
+[04:38:38]: [Death Announcement] G.Y was killed by Klaus. She became a spooky ghost!
+[04:38:51]: [Say] (KU_AQbLOa00) G.Y: #resurrect
+[04:38:52]: [Resurrect Announcement] G.Y was resurrected by resurrect.
+[04:38:57]: [Announcement] 946949377   受到伤害超过3000   获得成就【人形坦克】
+[04:38:59]: [Death Announcement] 946949377 was killed by Klaus. He became a spooky ghost!
+[04:39:14]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[04:39:15]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:39:38]: [Say] (KU_SIyU8BtY) 爱德华: 回档不？
+[04:39:43]: [Announcement] G.Y   造成伤害超过100000   获得成就【超凶】
+[04:39:46]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[04:39:51]: [Leave Announcement] 智障儿童欢乐多
+[04:39:55]: [Say] (KU_SIyU8BtY) 爱德华: resurrect
+[04:40:01]: [Say] (KU_SIyU8BtY) 爱德华: #resurrect
+[04:40:02]: [Resurrect Announcement] 爱德华 was resurrected by resurrect.
+[04:40:52]: [Death Announcement] 946949377 was killed by Klaus. He became a spooky ghost!
+[04:41:17]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[04:41:18]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:42:57]: [Say] (KU_gwdm4uXz) 逸翔天开: #resurrect
+[04:42:58]: [Resurrect Announcement] 逸翔天开 was resurrected by resurrect.
+[04:43:03]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[04:43:04]: [Resurrect Announcement] yyyyekia was resurrected by resurrect.
+[04:44:09]: [Death Announcement] yyyyekia was killed by Klaus. She became a spooky ghost!
+[04:44:26]: [Death Announcement] 946949377 was killed by Klaus. He became a spooky ghost!
+[04:44:26]: [Announcement] 946949377   死亡达10次   获得成就【超鬼】
+[04:44:38]: [Say] (KU_DGg1jBRK) 946949377: #RESUYYECT
+[04:44:55]: [Say] (KU_DGg1jBRK) 946949377: #resurrect
+[04:44:56]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:45:02]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[04:46:49]: [Say] (KU_0jqrY8M6) yyyyekia: #resurrect
+[04:47:19]: [Resurrect Announcement] yyyyekia was resurrected by G.Y.
+[04:50:30]: [Leave Announcement] yyyyekia
+[04:54:13]: [Leave Announcement] 946949377
+[05:02:54]: [Announcement] G.Y   击杀10只触手   获得成就【蛇皮走位】
+[05:10:27]: [Leave Announcement] G.Y
+[05:11:29]: [Say] (KU_gwdm4uXz) 逸翔天开: 睡觉拉
+[05:11:47]: [Leave Announcement] 逸翔天开
+[05:13:29]: [Leave Announcement] 爱德华
+[23:55:08]: [Join Announcement] G.Y
+[23:56:54]: [Leave Announcement] G.Y
+[00:18:12]: [Join Announcement] G.Y
+[00:18:48]: [Join Announcement] 946949377
+[00:27:38]: [Say] (KU_AQbLOa00) G.Y: #restart
+[00:27:39]: [Announcement] G.Y (Wigfrid) restart the game!
+[00:28:02]: [Announcement] G.Y   成功进入游戏   获得成就【新的开始】
+[00:35:12]: [Announcement] G.Y   造成伤害超过100000   获得成就【超凶】
+[00:39:38]: [Announcement] G.Y   吃下第一个食物   获得成就【第一口】
+[00:45:40]: [Join Announcement] 肖杓大魔王
+[00:47:26]: [Join Announcement] 翩翩红叶叹似心如故
+[00:51:36]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (饥饿值: 63/150) 我的生命之火需要一点燃料。
+[00:52:07]: [Join Announcement] 晴人mi
+[00:53:06]: [Announcement] 晴人mi   成功进入游戏   获得成就【新的开始】
+[00:55:40]: [Skin Announcement] 翩翩红叶叹似心如故 legs_checkered_pleats_green_laurel
+[00:56:05]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 74/150) 我觉得虚弱……我可能会……熄灭。
+[00:56:09]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 82/150) 这些裂口使我不再燃烧，我需要个医生。。。
+[00:56:12]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (饥饿值: 88/150) 愉快又饱满的。
+[00:56:15]: [Announcement] 晴人mi   吃下第一个食物   获得成就【第一口】
+[00:56:20]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (脑残值: 120/120) 我认为我现在有充足的精神烧火。
+[00:58:09]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (饥饿值: 106/150) 愉快又饱满的。
+[00:58:53]: [Death Announcement] 肖杓大魔王 was killed by Starvation. She became a spooky ghost!
+[00:59:23]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[00:59:24]: [Resurrect Announcement] 肖杓大魔王 was resurrected by resurrect.
+[01:00:23]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 70/150) 我觉得虚弱……我可能会……熄灭。
+[01:04:31]: [Say] (KU_AQbLOa00) G.Y:  我们拥有40个齿轮在这个宝箱。
+[01:04:45]: [Say] (KU_AQbLOa00) G.Y: 机器人
+[01:04:48]: [Say] (KU_AQbLOa00) G.Y:  我们拥有40个齿轮在这个宝箱。
+[01:07:46]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 85/150) 这些裂口使我不再燃烧，我需要个医生。。。
+[01:08:09]: [Join Announcement] REPOTER Zhang
+[01:08:56]: [Announcement] REPOTER Zhang   成功进入游戏   获得成就【新的开始】
+[01:10:33]: [Announcement] 肖杓大魔王   停止不动并活着90分钟   获得成就【咸鱼】
+[01:10:33]: [Join Announcement] 向向有一只大豚
+[01:10:58]: [Join Announcement] 苦海fuligar
+[01:11:27]: [Announcement] 苦海fuligar   成功进入游戏   获得成就【新的开始】
+[01:11:30]: [Announcement] 向向有一只大豚   成功进入游戏   获得成就【新的开始】
+[01:11:46]: [Leave Announcement] G.Y
+[01:12:22]: [Say] (KU_rW5Cwv8y) 翩翩红叶叹似心如故:  (生命值: 113/150) 我有一两处擦伤。我或许应该点燃它们。
+[01:15:59]: [Join Announcement] G.Y
+[01:16:39]: [Announcement] REPOTER Zhang   吃下第一个食物   获得成就【第一口】
+[01:17:12]: [Announcement] 苦海fuligar   吃下第一个食物   获得成就【第一口】
+[01:17:23]: [Announcement] 向向有一只大豚   吃下第一个食物   获得成就【第一口】
+[01:18:48]: [Say] (KU_H7WELlmK) REPOTER Zhang: bye
+[01:20:04]: [Say] (KU_AQbLOa00) G.Y:  我拥有10个荧光果。
+[01:20:19]: [Leave Announcement] 晴人mi
+[01:20:33]: [Leave Announcement] 翩翩红叶叹似心如故
+[01:23:49]: [Announcement] G.Y   受到伤害超过3000   获得成就【人形坦克】
+[01:25:52]: [Leave Announcement] REPOTER Zhang
+[01:25:54]: [Leave Announcement] 向向有一只大豚
+[01:27:46]: [Join Announcement] 向向有一只大豚
+[01:29:27]: [Join Announcement] REPOTER Zhang
+[01:29:31]: [Say] (KU_AQbLOa00) G.Y:  我拥有8个紫宝石。
+[01:30:10]: [Leave Announcement] REPOTER Zhang
+[01:31:11]: [Say] (KU_AQbLOa00) G.Y:  我拥有6个小发光浆果。
+[01:32:21]: [Join Announcement] REPOTER Zhang
+[01:32:50]: [Leave Announcement] 向向有一只大豚
+[01:33:45]: [Leave Announcement] G.Y
+[01:39:26]: [Join Announcement] 向向有一只大豚
+[01:39:51]: [Join Announcement] G.Y
+[01:40:39]: [Leave Announcement] G.Y
+[01:41:52]: [Leave Announcement] 苦海fuligar
+[01:42:43]: [Leave Announcement] 向向有一只大豚
+[01:43:23]: [Leave Announcement] G.Y
+[01:43:56]: [Join Announcement] 向向有一只大豚
+[01:48:17]: [Death Announcement] 肖杓大魔王 was killed by Hound. She became a spooky ghost!
+[01:48:40]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #ruserrect
+[01:49:07]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #ruserrect
+[01:49:09]: [Leave Announcement] G.Y
+[01:50:15]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #ruserrect
+[01:51:05]: [Join Announcement] G.Y
+[01:51:36]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #ruserrect
+[01:52:16]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[01:52:17]: [Resurrect Announcement] 肖杓大魔王 was resurrected by resurrect.
+[01:53:23]: [Say] (KU_AQbLOa00) G.Y:  我拥有10个小发光浆果。
+[01:53:26]: [Say] (KU_AQbLOa00) G.Y:  我拥有34个荧光果。
+[01:54:27]: [Say] (KU_AQbLOa00) G.Y:  我们拥有24个荧光果在这个冰箱。
+[01:55:53]: [Announcement] G.Y   打死格罗姆   获得成就【丧心病狂】
+[02:12:11]: [Say] (KU_AQbLOa00) G.Y:  (饥饿: 1/120) 没有一些肉我就饿死了！
+[02:12:40]: [Death Announcement] 肖杓大魔王 was killed by Hound. She became a spooky ghost!
+[02:12:48]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #ruserrect
+[02:12:59]: [Say] (KU_HqKLtXPp) 肖杓大魔王: resurrect
+[02:13:08]: [Say] (KU_AQbLOa00) G.Y:  (潮湿: 100/100) 我完全湿透了！
+[02:13:14]: [Say] (KU_HqKLtXPp) 肖杓大魔王: resurrect
+[02:13:30]: [Say] (KU_HqKLtXPp) 肖杓大魔王: #resurrect
+[02:13:31]: [Resurrect Announcement] 肖杓大魔王 was resurrected by resurrect.
+[02:14:36]: [Say] (KU_AQbLOa00) G.Y:  我们拥有42个牛毛在这个宝箱。
+[02:14:50]: [Announcement] 肖杓大魔王   身上着火   获得成就【火的传承人】
+[02:16:54]: [Say] (KU_AQbLOa00) G.Y:  我拥有32个噩梦燃料。
+[02:17:17]: [Say] (KU_AQbLOa00) G.Y:  我们拥有42个齿轮在这个宝箱。
+[02:17:27]: [Say] (KU_AQbLOa00) G.Y:  我们拥有100个噩梦燃料在这个宝箱。
+[02:20:15]: [Say] (KU_AQbLOa00) G.Y: 我去杀牛
+[02:24:34]: [Say] (KU_AQbLOa00) G.Y: 牛太多了
+[02:27:42]: [Say] (KU_AQbLOa00) G.Y:  我拥有9个牛毛。
+[02:29:36]: [Say] (KU_AQbLOa00) G.Y: 我放东西 满了
+[02:33:02]: [Say] (KU_AQbLOa00) G.Y:  体温(50�) 我在一个舒适的温度。
+[02:34:50]: [Say] (KU_AQbLOa00) G.Y:  体温(60�) 我有点热。
+[02:36:28]: [Say] (KU_AQbLOa00) G.Y: 打完了
+[02:40:04]: [Join Announcement] 智障儿童欢乐多
+[02:40:38]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[02:40:39]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[02:42:37]: [Say] (KU_AQbLOa00) G.Y:  体温(74�) 我过热了！
+[02:42:48]: [Leave Announcement] 智障儿童欢乐多
+[02:44:48]: [Join Announcement] 智障儿童欢乐多
+[02:50:01]: [Say] (KU_AQbLOa00) G.Y: 我有一个灭火器在物品栏
+[02:51:15]: [Skin Announcement] REPOTER Zhang body_buttons_black_jet
+[02:53:18]: [Say] (KU_AQbLOa00) G.Y: 有几个灭火器？
+[02:58:18]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多:  我拥有80个木材。
+[03:01:22]: [Leave Announcement] 946949377
+[03:01:27]: [Say] (KU_AQbLOa00) G.Y: 我们先吃饭 一会儿回来
+[03:01:38]: [Say] (KU_HqKLtXPp) 肖杓大魔王: 好
+[03:02:14]: [Leave Announcement] G.Y
+[03:06:54]: [Leave Announcement] 肖杓大魔王
+[03:13:54]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多:  (生命: 8/75) 不！我没有逃避而死在这里！
+[03:22:01]: [Join Announcement] 946949377
+[03:23:20]: [Join Announcement] G.Y
+[03:23:55]: [Death Announcement] 智障儿童欢乐多 was killed by Sand Spike. He became a spooky ghost!
+[03:24:00]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[03:24:01]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[03:24:28]: [Say] (KU_AQbLOa00) G.Y: ...
+[03:25:29]: [Death Announcement] 946949377 was killed by Spider. He became a spooky ghost!
+[03:25:42]: [Say] (KU_DGg1jBRK) 946949377: #resurrect
+[03:25:43]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[03:28:29]: [Leave Announcement] 向向有一只大豚
+[03:29:13]: [Announcement] G.Y   停止不动并活着90分钟   获得成就【咸鱼】
+[03:29:14]: [Leave Announcement] REPOTER Zhang
+[03:30:00]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多:  (生命: 43/75) 我可能需要给自己打个补丁。
+[03:30:27]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多:  (生命: 9/75) 不！我没有逃避而死在这里！
+[03:30:34]: [Death Announcement] 智障儿童欢乐多 was killed by Overheating. He became a spooky ghost!
+[03:30:42]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[03:31:11]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[03:31:12]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[03:35:45]: [Leave Announcement] 智障儿童欢乐多
+[04:01:11]: [Join Announcement] 智障儿童欢乐多
+[04:01:46]: [Death Announcement] 智障儿童欢乐多 was killed by Batilisk. He became a spooky ghost!
+[04:02:00]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:02:29]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by G.Y.
+[04:08:25]: [Announcement] G.Y   身上着火   获得成就【火的传承人】
+[04:12:08]: [Death Announcement] 智障儿童欢乐多 was killed by Overheating. He became a spooky ghost!
+[04:12:16]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:12:17]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[04:13:09]: [Say] (KU_AQbLOa00) G.Y:  我拥有1个触手尖刺,有 8%耐久性。
+[04:16:28]: [Death Announcement] 智障儿童欢乐多 was killed by Dragonfly. He became a spooky ghost!
+[04:16:32]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:16:59]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by Touch Stone.
+[04:17:12]: [Death Announcement] 智障儿童欢乐多 was killed by Darkness. He became a spooky ghost!
+[04:17:12]: [Announcement] 智障儿童欢乐多   死于黑暗   获得成就【萌新】
+[04:17:30]: [Leave Announcement] G.Y
+[04:18:42]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:19:14]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:19:19]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:19:20]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[04:22:02]: [Join Announcement] G.Y
+[04:29:42]: [Death Announcement] 智障儿童欢乐多 was killed by Bearger. He became a spooky ghost!
+[04:29:42]: [Announcement] 智障儿童欢乐多   死亡达10次   获得成就【超鬼】
+[04:29:49]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:29:50]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[04:30:24]: [Death Announcement] 946949377 was killed by Bearger. He became a spooky ghost!
+[04:30:39]: [Say] (KU_DGg1jBRK) 946949377: #RESURRECT
+[04:30:40]: [Resurrect Announcement] 946949377 was resurrected by resurrect.
+[04:36:45]: [Say] (KU_AQbLOa00) G.Y:  我们拥有75个金块在这个宝箱。
+[04:50:00]: [Say] (KU_AQbLOa00) G.Y:  我拥有1个矿工帽,有13%耐久性。
+[04:55:02]: [Death Announcement] 智障儿童欢乐多 was killed by Starvation. He became a spooky ghost!
+[04:55:11]: [Announcement] 946949377   用锅煮了100个食物   获得成就【法国大厨】
+[04:55:23]: [Say] (KU_3xJ72l6t) 智障儿童欢乐多: #RESURRECT
+[04:55:24]: [Resurrect Announcement] 智障儿童欢乐多 was resurrected by resurrect.
+[05:06:16]: [Leave Announcement] G.Y
+[05:10:53]: [Leave Announcement] 智障儿童欢乐多
+[05:11:34]: [Leave Announcement] 946949377
+[19:08:41]: [Join Announcement] 智障儿童欢乐多
+[19:16:22]: [Leave Announcement] 智障儿童欢乐多
+[19:18:23]: [Join Announcement] 智障儿童欢乐多
+[19:48:54]: [Skin Announcement] 智障儿童欢乐多 legs_pants_basic_black_scribble
+[20:02:57]: [Leave Announcement] 智障儿童欢乐多
